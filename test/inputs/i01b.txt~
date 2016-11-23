@@ -1,0 +1,7 @@
+#comment
+Schemes:
+    SK(A,B)
+Facts:
+Rules:
+Queries#|comment|#:
+    SK(A,'c')?

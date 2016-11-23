@@ -1,0 +1,39 @@
+Testsuite: timetest5.TimeTest5Suite
+Tests run: 16, Failures: 0, Errors: 0, Time elapsed: 0.43 sec
+
+------------- Standard Output ---------------
+Schemes populated after 1 passes through the Rules.
+Total time for test1 = 0.15 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test2 = 0.01 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test3 = 0.0050 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test4 = 0.0040 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test5 = 0.0070 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test6 = 0.01 sec
+Schemes populated after 1 passes through the Rules.
+Total time for test7 = 0.012 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test8 = 0.015 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test9 = 0.0070 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test10 = 0.0060 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test11 = 0.0080 sec
+Schemes populated after 3 passes through the Rules.
+Total time for test12 = 0.0060 sec
+Schemes populated after 3 passes through the Rules.
+Total time for test13 = 0.0060 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test14 = 0.0070 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test15 = 0.0090 sec
+Schemes populated after 2 passes through the Rules.
+Total time for test16 = 0.021 sec
+ 
+Total Time = 0.283 sec
+------------- ---------------- ---------------

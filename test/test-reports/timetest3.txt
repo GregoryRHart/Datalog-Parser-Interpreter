@@ -1,0 +1,23 @@
+Testsuite: timetest3.TimeTest3Suite
+Tests run: 16, Failures: 0, Errors: 0, Time elapsed: 17.385 sec
+
+------------- Standard Output ---------------
+Total time for test1 = 0.297 sec
+Total time for test2 = 0.0090 sec
+Total time for test3 = 0.05 sec
+Total time for test4 = 0.016 sec
+Total time for test5 = 0.014 sec
+Total time for test6 = 0.266 sec
+Total time for test7 = 2.042 sec
+Total time for test8 = 0.049 sec
+Total time for test9 = 1.064 sec
+Total time for test10 = 0.012 sec
+Total time for test11 = 0.381 sec
+Total time for test12 = 0.266 sec
+Total time for test13 = 0.016 sec
+Total time for test14 = 2.573 sec
+Total time for test15 = 10.239 sec
+Total time for test16 = 0.0090 sec
+ 
+Total Time = 17.303 sec
+------------- ---------------- ---------------
